@@ -1,0 +1,30 @@
+{
+ "name": "한빛 WT-1 웨이브테이블 신스",
+ "short_name": "WT-1",
+ "description": "아이패드용 웨이브테이블 신디사이저",
+ "lang": "ko",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "any",
+ "background_color": "#0d1218",
+ "theme_color": "#0d1218",
+ "icons": [
+  {
+   "src": "icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
